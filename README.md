@@ -1,10 +1,12 @@
-# Parallel Distributed Processing assessment 1
-Source code for assessment 1 of course Parallel Distributed Processing.
+# Parallel Distributed Processing assessment 2
+Source code for assessment 2 of course Parallel Distributed Processing.
 
-Assesment 1: 
+Assessment 2: 
 
-``Sum the ratings given for each movie``
+- Make a alphabetic list from all locations from the orders.csv.
 
-``Code have to run on HDFS with a basic setup``
+- Group by “location” with target “Holland”
 
-``Code is executed with a python command with MrJob``
+- Count how many times Holland was the target from that location
+
+- Code is executed from Pig View
